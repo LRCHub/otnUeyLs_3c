@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Crowds",
+  "base_artist": "WHITE ASH",
+  "createdAt": "2026-03-13T14:22:21.133900Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Extraordinary Popular Delusions and the Madness of Crowds",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/01_Extraordinary_Popular_Delusions_and_the_Madness_of_Crowds_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Extraordinary Delusions and the Madness of Crowds",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/02_Extraordinary_Delusions_and_the_Madness_of_Crowds_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don't Do Crowds",
+      "artist": "Camera Obscura",
+      "has_synced": false,
+      "path": "select/03_I_Don't_Do_Crowds_Camera_Obscura.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crowds",
+      "artist": "Bauhaus",
+      "has_synced": false,
+      "path": "select/04_Crowds_Bauhaus.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crowds",
+      "artist": "Bauhaus",
+      "has_synced": false,
+      "path": "select/05_Crowds_Bauhaus.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crowds (re-mastered 08)",
+      "artist": "Bauhaus",
+      "has_synced": false,
+      "path": "select/06_Crowds_(re-mastered_08)_Bauhaus.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crowds (Remastered)",
+      "artist": "Bauhaus",
+      "has_synced": false,
+      "path": "select/07_Crowds_(Remastered)_Bauhaus.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Madness of the Crowds",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/08_The_Madness_of_the_Crowds_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Madness Of The Crowds (Bonus Track)",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/09_The_Madness_Of_The_Crowds_(Bonus_Track)_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "When the Crowds Are Gone",
+      "artist": "Savatage",
+      "has_synced": false,
+      "path": "select/10_When_the_Crowds_Are_Gone_Savatage.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "When The Crowds Are Gone",
+      "artist": "Savatage",
+      "has_synced": true,
+      "path": "select/11_When_The_Crowds_Are_Gone_Savatage.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When the Crowds are Gone (Live)",
+      "artist": "Savatage",
+      "has_synced": false,
+      "path": "select/12_When_the_Crowds_are_Gone_(Live)_Savatage.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "When the Crowds Are Gone",
+      "artist": "Savatage",
+      "has_synced": false,
+      "path": "select/13_When_the_Crowds_Are_Gone_Savatage.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "When the Crowds Are Gone (acoustic version)",
+      "artist": "Savatage",
+      "has_synced": false,
+      "path": "select/14_When_the_Crowds_Are_Gone_(acoustic_version)_Savatage.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Secret Crowds",
+      "artist": "Angels & Airwaves",
+      "has_synced": true,
+      "path": "select/15_Secret_Crowds_Angels_&_Airwaves.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Secret Crowds (LP Version)",
+      "artist": "Angels & Airwaves",
+      "has_synced": true,
+      "path": "select/16_Secret_Crowds_(LP_Version)_Angels_&_Airwaves.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crowds",
+      "artist": "WHITE ASH",
+      "has_synced": false,
+      "path": "select/pl_01_Crowds_WHITE_ASH.txt"
+    }
+  ]
+}
